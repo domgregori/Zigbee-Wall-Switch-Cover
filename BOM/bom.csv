@@ -1,0 +1,10 @@
+Designator,Footprint,Quantity,Value,LCSC Part #
+"BT1, BT2",BatteryHolder_Keystone_3002_1x2032,2,Battery_Cell,
+D1,LED_D3.0mm,1,LED,
+"H1, H2, H3",MountingHole_2mm,3,MountingHole,
+J1,PinHeader_1x05_P2.54mm_Vertical,1,Debug,
+R1,0805,1,1k,
+R2,0805,1,1k,
+R3,0805,1,10k,
+"SW1, SW2",SW_PUSH_6mm_H4.3mm,2,SW_Push,
+U1,E18-MS1-PCB,1,E18-MS1-PCB,
