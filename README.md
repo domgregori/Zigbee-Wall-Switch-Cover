@@ -44,7 +44,7 @@ The PCB has 2mm mounting holes, but I did not use them in this case
 - Orient the **"TOP"** part of the PCB towards the direction of the switch (so upside down if your switch in on in the down position)
 - Button 1 (SW1) is the pairing button
 - Pair using the info at [Freepad: How to join](https://github.com/diyruz/freepad#how-to-join)
-- I highly reccomend setting at least on of the buttons to MOMENTARY mode for quicker respose using the [Freedpad: Working modes](https://github.com/diyruz/freepad#work-modes) guide
+- I highly reccomend setting at least one of the buttons to MOMENTARY mode for quicker respose using the [Freedpad: Working modes](https://github.com/diyruz/freepad#work-modes) guide
 - Only one battery is required to run but I use 2 so I get a longer run time
 - If using zigbee2mqtt, don't use the outdated CC2531 board. It killed my batteries in days and pairing problems. I recomend the Sonoff ZBDongle-P (**Not model ZBDongle-E**)
 
