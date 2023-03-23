@@ -7,7 +7,9 @@ This is built using [FreePad](https://github.com/diyruz/freepad) firmware for th
 
 ![PCB_Front](https://user-images.githubusercontent.com/12613759/225990714-82f4070e-8f06-425e-b773-d88c17ac61c5.jpg) ![PCB_Back](https://user-images.githubusercontent.com/12613759/225990713-b68e532a-02b2-440a-b12a-4e1ec7ed334e.jpg)
 
-![PCB_On_Wall](https://user-images.githubusercontent.com/12613759/225990718-b320dfeb-5f1c-44e4-844d-b0c2c7245a5a.jpg) ![Case_On_Wall](https://user-images.githubusercontent.com/12613759/225990721-0f84a5b7-3be8-4a63-bc4f-584a9ef7f88f.jpg)
+![PCB_On_Wall](https://user-images.githubusercontent.com/12613759/225990718-b320dfeb-5f1c-44e4-844d-b0c2c7245a5a.jpg) ![Case_On_Wall](https://user-images.githubusercontent.com/12613759/225990721-0f84a5b7-3be8-4a63-bc4f-584a9ef7f88f.jpg) ![zigbee_switch](https://user-images.githubusercontent.com/12613759/227248751-e19afc95-a7d9-4b17-a33e-6fbf233367a5.gif)
+
+
 
 # Programming
 This is the wiring diagram between the PCB and CC Debugger
